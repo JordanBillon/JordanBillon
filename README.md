@@ -8,7 +8,7 @@ Expérience dans la création de sites vitrines et applicatifs pour entreprises 
 Basé à Toulouse, France  
 
 <br>
-## 🛠️ Compétences  
+ 🛠️ Compétences  
 <br>
 Front-end : HTML5, CSS3, Sass, TailwindCSS, VueJS  
 Back-end : PHP (Symfony), Node.js, MySQL, API REST  
@@ -17,7 +17,7 @@ Autres : SEO, gestion de projet agile, intégration IA
 
 ---
 <br>
-## 📌 Projets récents  
+ 📌 Projets récents  
 <br>
 - JujuPeint’Urt (2025) → Site responsive (PHP/JS), optimisation SEO  
 - O Douceur de Julie (2024) → Site avec formulaire de contact, SEO  
