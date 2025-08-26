@@ -16,7 +16,6 @@ Outils : Git, Docker, VS Code, Postman, Cypress
 Autres : SEO, gestion de projet agile, intégration IA  
 
 ---
-<br>
  📌 Projets récents  
 <br><br>
 - JujuPeint’Urt (2025) → Site responsive (PHP/JS), optimisation SEO  
