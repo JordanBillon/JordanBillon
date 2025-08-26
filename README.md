@@ -10,10 +10,10 @@ Basé à Toulouse, France
 <br>
  🛠️ Compétences  
 <br><br>
-Front-end : HTML5, CSS3, Sass, TailwindCSS, VueJS <br> 
-Back-end : PHP (Symfony), Node.js, MySQL, API REST <br> 
-Outils : Git, Docker, VS Code, Postman, Cypress  <br>
-Autres : SEO, gestion de projet agile, intégration IA  <br>
+**Front-end** : HTML5, CSS3, Sass, TailwindCSS, VueJS <br> 
+**Back-end** : PHP (Symfony), Node.js, MySQL, API REST <br> 
+**Outils** : Git, Docker, VS Code, Postman, Cypress  <br>
+**Autres** : SEO, gestion de projet agile, intégration IA  <br>
 
 ---
  📌 Projets récents :
