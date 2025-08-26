@@ -1,30 +1,29 @@
 ## Hi I'm Jordan 👋
 
 
-💻 Développeur Web Fullstack (PHP / Symfony & JavaScript / VueJS)  
-<br>
-Expérience dans la création de sites vitrines et applicatifs pour entreprises locales  
+💻 Fullstack Web Developer (PHP / Symfony & JavaScript / VueJS)  
 
-Basé à Toulouse, France  
+Experience in building showcase websites and web applications for local businesses.  
 
-<br>
- 🛠️ Compétences  
-<br><br>
-
-**Front-end** : HTML5, CSS3, Sass, TailwindCSS, VueJS <br> 
-**Back-end** : PHP (Symfony), Node.js, MySQL, API REST <br> 
-**Outils** : Git, Docker, VS Code, Postman, Cypress  <br>
-**Autres** : SEO, gestion de projet agile, intégration IA  <br>
+Based in Toulouse, France  
 
 ---
- 📌 Projets récents :
-<br>
 
-**- JujuPeint’Urt (2025)** → Site responsive (PHP/JS), optimisation SEO  
-**- O Douceur de Julie (2024)** → Site avec formulaire de contact, SEO  
-**- Câlins d’anges (2023)** → Site responsive (PHP/JS), blog + quiz (VueJS), SEO
+🛠️ Skills  
 
-  
-<br>
+**Front-end:** HTML5, CSS3, Sass, TailwindCSS, VueJS  
+**Back-end:** PHP (Symfony), Node.js, MySQL, API REST  
+**Tools:** Git, Docker, VS Code, Postman, Cypress  
+**Other:** SEO, Agile project management, AI integration  
 
-✨ *Toujours curieux d’apprendre et d’innover avec de nouvelles technologies.*
+---
+
+📌 Recent Projects:  
+
+- **JujuPeint’Urt (2025)** → Responsive website (PHP/JS), SEO optimization  
+- **O Douceur de Julie (2024)** → Website with contact form integration, SEO  
+- **Câlins d’anges (2023)** → Responsive website (PHP/JS), blog + quiz (VueJS), SEO  
+
+---
+
+✨ Always eager to learn and innovate with new technologies.
