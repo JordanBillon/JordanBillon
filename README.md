@@ -10,6 +10,7 @@ Basé à Toulouse, France
 <br>
  🛠️ Compétences  
 <br><br>
+
 **Front-end** : HTML5, CSS3, Sass, TailwindCSS, VueJS <br> 
 **Back-end** : PHP (Symfony), Node.js, MySQL, API REST <br> 
 **Outils** : Git, Docker, VS Code, Postman, Cypress  <br>
@@ -18,9 +19,10 @@ Basé à Toulouse, France
 ---
  📌 Projets récents :
 <br>
-- JujuPeint’Urt (2025) → Site responsive (PHP/JS), optimisation SEO  
-- O Douceur de Julie (2024) → Site avec formulaire de contact, SEO  
-- Câlins d’anges (2023) → Site responsive (PHP/JS), blog + quiz (VueJS), SEO
+
+**- JujuPeint’Urt (2025)** → Site responsive (PHP/JS), optimisation SEO  
+**- O Douceur de Julie (2024)** → Site avec formulaire de contact, SEO  
+**- Câlins d’anges (2023)** → Site responsive (PHP/JS), blog + quiz (VueJS), SEO
 
   
 <br>
