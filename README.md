@@ -26,4 +26,5 @@ Basé à Toulouse, France
 
   
 <br>
+
 ✨ *Toujours curieux d’apprendre et d’innover avec de nouvelles technologies.*
